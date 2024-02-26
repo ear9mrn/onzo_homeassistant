@@ -20,11 +20,11 @@ Test
 ```
 
 
-# Instillation
+# Installation
 
-Select "Settings->Add-Ons". Bottom right (blue button) select "ADD-On STORE". Top right (three dots) select "Repositories". In the popup window at the bottom (Add) paste this repository url.
+From the left side menu select "Settings->Add-Ons". Bottom right (blue button) select "ADD-On STORE". Top right (three dots) select "Repositories". In the popup window at the bottom (Add) paste this repository url.
 '''
-https://homeassist.nevill.uk.net:8123/config/info
+https://github.com/ear9mrn/onzo_homeassistant.git
 '''
 
 Select "Add".
