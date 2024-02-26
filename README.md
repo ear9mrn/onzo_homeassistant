@@ -1,9 +1,8 @@
- onzo_dumper
+ onzo_homeassistant
 
-## Linux Onzo Smart Energy Monitor
+## Onzo Smart Energy Monitor
 
-This project reads data from the Onzo Smart Meter (USB VID/PID 04d8:003f) by taking code from
-the original wrapped-python, Windows exe.
+This project reads data from the Onzo Smart Meter (USB VID/PID 04d8:003f) by using code modified by from ![https://github.com/ep1cman/PyOnzo](https://github.com/ep1cman/PyOnzo).
 
 It has only been briefly tested
 
